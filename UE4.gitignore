@@ -59,6 +59,9 @@ DerivedDataCache/*
 # Mac Artifacts
 .DS_Store
 
+# Starter Content files are too big for GitHub regular file storage
+Content/StarterContent/*
+
 # Vim Artifacts
 *.swp
 *.swo
