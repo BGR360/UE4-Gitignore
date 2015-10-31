@@ -34,7 +34,6 @@
 *.suo
 *.opensdf
 *.sdf
-*.sln
 
 # Precompiled Assets
 SourceArt/**/*.png
